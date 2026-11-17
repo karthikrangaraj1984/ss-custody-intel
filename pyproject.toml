@@ -1,0 +1,13 @@
+[project]
+name = "custody-intel"
+version = "0.1.0"
+description = "Custody Market Intelligence Agent: fund service-provider share and switches from SEC Form N-CEN"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.2"]
+
+[project.scripts]
+custody-intel = "custody_intel.cli:main"
+custody-intel-server = "custody_intel.server:main"
+
+[tool.setuptools]
+packages = ["custody_intel"]

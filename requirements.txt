@@ -1,0 +1,5 @@
+mcp>=1.2          # MCP server for Claude Desktop; works with 1.x and 2.x
+anthropic>=0.40   # chat agent (Ask the analyst, python -m custody_intel.agent)
+pandas>=2.0
+streamlit>=1.40   # web app (app.py); brings altair for charts
+pytest>=8         # tests

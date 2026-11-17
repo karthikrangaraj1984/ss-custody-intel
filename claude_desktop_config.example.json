@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "custody-intel": {
+      "command": "C:/path/to/custody-intel/.venv/Scripts/python.exe",
+      "args": ["-m", "custody_intel.server"],
+      "cwd": "C:/path/to/custody-intel",
+      "env": {
+        "CUSTODY_INTEL_DB": "C:/path/to/custody-intel/data/custody_intel.sqlite"
+      }
+    }
+  }
+}

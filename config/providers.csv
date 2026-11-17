@@ -1,0 +1,44 @@
+group,pattern,notes
+State Street,STATE STREET|\bSSGA\b,"State Street Bank and Trust, SSGA Funds Management (admin for SPDR)"
+BNY,BANK OF NEW YORK|\bBNY\b|\bMELLON\b,"The Bank of New York Mellon, BNY Mellon Investment Servicing"
+JPMorgan,J\.?\s*P\.?\s*MORGAN,"JPMorgan Chase Bank, N.A., J.P. Morgan Investment Management"
+Northern Trust,NORTHERN TRUST,
+Citi,\bCITIBANK\b|\bCITIGROUP\b|\bCITI FUND SERVICES\b,
+Brown Brothers Harriman,BROWN BROTHERS HARRIMAN|\bBBH\b,
+U.S. Bank,\bU\.?\s*S\.?\s*(BANK|BANCORP)\b|\bUSBFS\b,"U.S. Bank N.A., U.S. Bancorp Fund Services / U.S. Bank Global Fund Services"
+UMB,\bUMB\b,
+BNP Paribas,BNP PARIBAS,
+MUFG,\bMUFG\b|MITSUBISHI UFJ,
+Deutsche Bank,DEUTSCHE BANK,
+Huntington,HUNTINGTON NATIONAL BANK,
+Fifth Third,FIFTH THIRD,
+Wells Fargo,WELLS FARGO,
+HSBC,\bHSBC\b,
+Goldman Sachs,GOLDMAN SACHS,
+Morgan Stanley,MORGAN STANLEY,
+Charles Schwab,SCHWAB,
+SS&C,SS\s*&\s*C|\bDST\b|ALPS FUND SERVICES|DST ASSET MANAGER SOLUTIONS,"SS&C Global Investor & Distribution Solutions (ex-DST), ALPS"
+Ultimus,ULTIMUS,
+Fidelity,\bFIDELITY\b|NATIONAL FINANCIAL SERVICES,"Fidelity Service Company, Fidelity Investments Institutional Operations, National Financial Services (Fidelity's broker-dealer, securities lending)"
+Vanguard,VANGUARD,
+BlackRock,BLACKROCK,
+Capital Group,AMERICAN FUNDS SERVICE|CAPITAL RESEARCH|CAPITAL GROUP,
+T. Rowe Price,T\.?\s*ROWE PRICE,
+Franklin Templeton,FRANKLIN TEMPLETON,
+Invesco,INVESCO,
+PIMCO,PACIFIC INVESTMENT MANAGEMENT|\bPIMCO\b,
+MFS,MASSACHUSETTS FINANCIAL SERVICES|\bMFS\b,
+PGIM / Prudential,\bPGIM\b|PRUDENTIAL,
+TIAA,TEACHERS INSURANCE AND ANNUITY|TEACHERS ADVISORS|\bTIAA\b,
+Columbia Threadneedle,COLUMBIA MANAGEMENT,
+Principal,PRINCIPAL SHAREHOLDER SERVICES|PRINCIPAL GLOBAL INVESTORS|PRINCIPAL FUNDS,
+John Hancock,JOHN HANCOCK,
+Jackson National,JACKSON NATIONAL,
+Equitable,EQUITABLE FINANCIAL|EQUITABLE INVESTMENT,
+Empower,\bEMPOWER\b,
+Allspring,ALLSPRING,
+eSecLending (Securities Finance Trust),SECURITIES FINANCE TRUST|ESECLENDING,
+Computershare,COMPUTERSHARE,
+Equiniti,EQUINITI|AMERICAN STOCK TRANSFER,
+Inspira Financial,INSPIRA FIN|MILLENNIUM TRUST,"Inspira Financial (formerly Millennium Trust), incl. misspellings"
+SEI,\bSEI INVESTMENTS\b|\bSEI GLOBAL\b|\bSEI PRIVATE TRUST\b,
